@@ -1,0 +1,14 @@
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\bin\Debug\WindowsIconMaker.exe.config
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\bin\Debug\WindowsIconMaker.exe
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\bin\Debug\WindowsIconMaker.pdb
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\WindowsIconMaker.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\Window1.g.cs
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\App.g.cs
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\WindowsIconMaker_MarkupCompile.cache
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\WindowsIconMaker_MarkupCompile.lref
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\Window1.baml
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\WindowsIconMaker.g.resources
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\WindowsIconMaker.Properties.Resources.resources
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\WindowsIconMaker.csproj.GenerateResource.Cache
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\WindowsIconMaker.exe
+C:\Users\Administrator\测试项目\IconMaker\WindowsIconMaker\obj\Debug\WindowsIconMaker.pdb
